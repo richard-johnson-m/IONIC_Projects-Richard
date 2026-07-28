@@ -1,0 +1,16 @@
+../Core/Src/DCMotor.cpp:11:1:DCMotor::DCMotor(TIM_HandleTypeDef*, uint32_t, TIM_HandleTypeDef*, uint32_t, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t)	24	static
+../Core/Src/DCMotor.cpp:39:6:void DCMotor::Init()	16	static
+../Core/Src/DCMotor.cpp:44:6:void DCMotor::Enable()	16	static
+../Core/Src/DCMotor.cpp:49:6:void DCMotor::Disable()	16	static
+../Core/Src/DCMotor.cpp:54:6:void DCMotor::SetSpeedForward(uint16_t)	16	static
+../Core/Src/DCMotor.cpp:60:6:void DCMotor::SetSpeedReverse(uint16_t)	16	static
+../Core/Src/DCMotor.cpp:66:6:void DCMotor::MoveForward(uint16_t)	16	static
+../Core/Src/DCMotor.cpp:79:6:void DCMotor::MoveReverse(uint16_t)	16	static
+../Core/Src/DCMotor.cpp:92:6:void DCMotor::MoveHome(uint16_t)	16	static
+../Core/Src/DCMotor.cpp:98:6:void DCMotor::MoveEnd(uint16_t)	16	static
+../Core/Src/DCMotor.cpp:104:6:void DCMotor::Stop()	16	static
+../Core/Src/DCMotor.cpp:113:6:void DCMotor::pass()	16	static
+../Core/Src/DCMotor.cpp:118:7:void DCMotor::resume()	16	static
+../Core/Src/DCMotor.cpp:123:6:bool DCMotor::IsRunning()	16	static
+../Core/Src/DCMotor.cpp:128:6:void DCMotor::HandleExti(uint16_t)	16	static
+../Core/Src/DCMotor.cpp:144:6:void DCMotor::HandleExtio()	16	static

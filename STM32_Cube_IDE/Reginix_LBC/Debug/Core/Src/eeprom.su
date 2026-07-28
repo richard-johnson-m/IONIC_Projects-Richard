@@ -1,0 +1,2 @@
+../Core/Src/eeprom.cpp:17:6:void eeprom::EEPROM_Write(uint16_t, uint8_t*, uint16_t)	48	static
+../Core/Src/eeprom.cpp:34:6:void eeprom::EEPROM_Read(uint16_t, uint8_t*, uint16_t)	48	static

@@ -1,0 +1,7 @@
+../Core/Src/SystemController.cpp:11:1:SystemController::SystemController(Stepper*, DCMotor*, VacuumPump*)	24	static
+../Core/Src/SystemController.cpp:19:6:void SystemController::Init()	16	static
+../Core/Src/SystemController.cpp:23:6:void SystemController::Start()	16	static
+../Core/Src/SystemController.cpp:29:6:void SystemController::Pause()	16	static
+../Core/Src/SystemController.cpp:40:6:void SystemController::Resume()	16	static
+../Core/Src/SystemController.cpp:51:6:void SystemController::Reset()	16	static
+../Core/Src/SystemController.cpp:55:6:void SystemController::Update()	16	static

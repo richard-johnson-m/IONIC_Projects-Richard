@@ -1,0 +1,50 @@
+../Core/Src/DWIN_UI.cpp:17:1:DWIN_UI::DWIN_UI()	1
+../Core/Src/DWIN_UI.cpp:20:6:void DWIN_UI::get_HMI_Input_ISR(uint8_t)	19
+../Core/Src/DWIN_UI.cpp:182:6:void DWIN_UI::handlePageSwitch(VP, uint16_t)	128
+../Core/Src/DWIN_UI.cpp:641:9:uint8_t DWIN_UI::safeUpdate(uint8_t, uint8_t)	4
+../Core/Src/DWIN_UI.cpp:654:6:void DWIN_UI::controllhub(uint16_t)	8
+../Core/Src/DWIN_UI.cpp:701:6:void DWIN_UI::wakeSystem()	1
+../Core/Src/DWIN_UI.cpp:705:6:void DWIN_UI::SleepMode()	1
+../Core/Src/DWIN_UI.cpp:709:6:void DWIN_UI::LodingPage()	1
+../Core/Src/DWIN_UI.cpp:715:6:void DWIN_UI::RTC_Enter(uint16_t)	1
+../Core/Src/DWIN_UI.cpp:721:6:void DWIN_UI::Mode_Page(uint16_t)	8
+../Core/Src/DWIN_UI.cpp:753:6:void DWIN_UI::gyno_Home_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:770:6:void DWIN_UI::gyno_process_on_Going_Page(uint16_t)	2
+../Core/Src/DWIN_UI.cpp:778:6:void DWIN_UI::gyno_stop_Page(uint16_t)	3
+../Core/Src/DWIN_UI.cpp:791:6:void DWIN_UI::gyno_selection_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:841:6:void DWIN_UI::gyno_settings_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:894:6:void DWIN_UI::Fine_Needle_Home_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:913:6:void DWIN_UI::Fine_Needle_process_on_Going_Page(uint16_t)	2
+../Core/Src/DWIN_UI.cpp:921:6:void DWIN_UI::Fine_Needle_stop_Page(uint16_t)	3
+../Core/Src/DWIN_UI.cpp:933:6:void DWIN_UI::Fine_Needle_selection_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:974:6:void DWIN_UI::Fine_Needle_settings_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1023:6:void DWIN_UI::Mucoid_Home_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1041:6:void DWIN_UI::Mucoid_process_on_Going_Page(uint16_t)	2
+../Core/Src/DWIN_UI.cpp:1050:6:void DWIN_UI::Mucoid_stop_Page(uint16_t)	3
+../Core/Src/DWIN_UI.cpp:1062:6:void DWIN_UI::Mucoid_selection_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1109:6:void DWIN_UI::Mucoid_settings_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1161:6:void DWIN_UI::fluid_Home_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1179:6:void DWIN_UI::fluid_process_on_Going_Page(uint16_t)	2
+../Core/Src/DWIN_UI.cpp:1188:6:void DWIN_UI::fluid_stop_Page(uint16_t)	3
+../Core/Src/DWIN_UI.cpp:1200:6:void DWIN_UI::fluid_selection_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1244:6:void DWIN_UI::fluid_settings_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1293:6:void DWIN_UI::ECT_Home_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1310:6:void DWIN_UI::ECT_process_on_Going_Page(uint16_t)	2
+../Core/Src/DWIN_UI.cpp:1319:6:void DWIN_UI::ECT_stop_Page(uint16_t)	3
+../Core/Src/DWIN_UI.cpp:1331:6:void DWIN_UI::ECT_selection_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1380:6:void DWIN_UI::ECT_settings_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1433:6:void DWIN_UI::superficial_Home_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1450:6:void DWIN_UI::superficial_process_on_Going_Page(uint16_t)	2
+../Core/Src/DWIN_UI.cpp:1459:6:void DWIN_UI::superficial_stop_Page(uint16_t)	3
+../Core/Src/DWIN_UI.cpp:1471:6:void DWIN_UI::superficial_selection_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1519:6:void DWIN_UI::superficial_settings_Page(uint16_t)	5
+../Core/Src/DWIN_UI.cpp:1572:6:void DWIN_UI::homeTriger()	1
+../Core/Src/DWIN_UI.cpp:1580:6:void DWIN_UI::Psw_(uint16_t)	10
+../Core/Src/DWIN_UI.cpp:1657:6:void DWIN_UI::Psw_enter_button()	7
+../Core/Src/DWIN_UI.cpp:1842:6:void DWIN_UI::Psw_back_button()	1
+../Core/Src/DWIN_UI.cpp:1851:6:void DWIN_UI::pageSwitch(uint8_t)	1
+../Core/Src/DWIN_UI.cpp:1862:6:void DWIN_UI::sendValueToDwin(uint16_t, uint16_t)	1
+../Core/Src/DWIN_UI.cpp:1873:6:void DWIN_UI::sendFloatValueToDwin(uint16_t, float)	1
+../Core/Src/DWIN_UI.cpp:1884:6:void DWIN_UI::sendStringToDwin(uint16_t, const char*)	1
+../Core/Src/DWIN_UI.cpp:1906:6:void DWIN_UI::sendCurrentDateTimeToDwin()	1
+../Core/Src/DWIN_UI.cpp:1928:6:void DWIN_UI::restartHMI()	1
