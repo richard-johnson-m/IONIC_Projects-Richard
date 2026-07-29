@@ -1,0 +1,9 @@
+../Core/Src/main.c:123:6:delay_us	0	static
+../Core/Src/main.c:131:6:Stepper_SetFrequency_L	0	static
+../Core/Src/main.c:161:6:Stepper_SetFrequency_S	0	static
+../Core/Src/main.c:202:6:SetRPM	0	static
+../Core/Src/main.c:211:6:DRV8711_WriteReg	16	static
+../Core/Src/main.c:239:10:DRV8711_ReadReg	24	static
+../Core/Src/main.c:483:6:SystemClock_Config	96	static
+../Core/Src/main.c:285:5:main	32	static
+../Core/Src/main.c:535:6:Error_Handler	0	static

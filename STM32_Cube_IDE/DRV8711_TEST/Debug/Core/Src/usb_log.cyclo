@@ -1,0 +1,4 @@
+../Core/Src/usb_log.c:39:9:USB_CSV_Init	5
+../Core/Src/usb_log.c:98:9:USB_CSV_Write	2
+../Core/Src/usb_log.c:137:6:USB_CSV_Close	2
+../Core/Src/usb_log.c:154:6:USB_Get_Info	4

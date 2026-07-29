@@ -1,0 +1,10 @@
+../Core/Src/mDRV_Config.c:34:17:SPI_DRV8711_ReadWrite	32	static,ignoring_inline_asm
+../Core/Src/mDRV_Config.c:104:6:DRV_REG_Write	0	static
+../Core/Src/mDRV_Config.c:87:6:DRV_Write_All_REG	8	static
+../Core/Src/mDRV_Config.c:164:10:DRV_REG_Read	8	static
+../Core/Src/mDRV_Config.c:180:6:DRV_SetEnable	0	static
+../Core/Src/mDRV_Config.c:192:6:DRV_SetDirection	0	static
+../Core/Src/mDRV_Config.c:204:6:DRV_StepMotor	8	static
+../Core/Src/mDRV_Config.c:220:6:DRV_SetMicrostepping	0	static
+../Core/Src/mDRV_Config.c:231:10:DRV_GetStatus	0	static
+../Core/Src/mDRV_Config.c:237:6:DRV_ClearFaults	8	static
